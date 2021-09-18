@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sunshineyanghui/gitbook-note.git"
+    "url": "git+https://github.com/1221de/gbook.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunshineyanghui/gitbook-note/issues"
+    "url": "https://github.com/1221de/gbook.git/issues"
   },
-  "homepage": "https://github.com/sunshineyanghui/gitbook-note#readme"
+  "homepage": "https://github.com/1221de/gbook.git"
 }
